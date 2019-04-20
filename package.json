@@ -1,6 +1,6 @@
 {
   "name": "@video-face-recognition/dlib-build",
-  "version": "0.1.1-vfr.0",
+  "version": "0.1.1-vfr.1",
   "description": "A simple script to auto build dlib",
   "repository": {
     "type": "git",
